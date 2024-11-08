@@ -1,0 +1,18 @@
+src
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── exemplo
+│   │           └── cadastro
+│   │               ├── CadastroApplication.java
+│   │               ├── controller
+│   │               │   └── ClienteController.java
+│   │               ├── model
+│   │               │   └── Cliente.java
+│   │               ├── repository
+│   │               │   └── ClienteRepository.java
+│   │               └── service
+│   │                   └── ClienteService.java
+│   └── resources
+│       └── application.properties
+└── pom.xml
