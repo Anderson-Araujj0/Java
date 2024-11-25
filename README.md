@@ -9,4 +9,4 @@ Este é um projeto simples em Java para cadastrar e listar usuários no console.
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/UserRegistrationApp.git
+   git clone https://github.com/Anderson-Araujj0/UserRegistrationApp.git
