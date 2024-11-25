@@ -1,0 +1,14 @@
+UserRegistrationApp/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── userapp/
+│   │   │   │   │   ├── Main.java
+│   │   │   │   │   ├── User.java
+│   │   │   │   │   ├── UserManager.java
+│   │   resources/
+│   │       ├── users.txt
+├── README.md
+├── .gitignore
+├── pom.xml (para usar Maven, opcional)
